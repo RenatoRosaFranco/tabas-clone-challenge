@@ -18,6 +18,8 @@ gem "bootsnap", require: false
 gem "kamal", require: false
 gem "thruster", require: false
 gem 'interactor'
+gem 'kaminari'
+gem 'ransack'
 
 group :development, :test do
   gem "debug", platforms: %i[ mri windows ], require: "debug/prelude"

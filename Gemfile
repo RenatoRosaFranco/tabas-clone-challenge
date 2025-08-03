@@ -32,6 +32,7 @@ group :development, :test do
   gem 'rubocop'
   gem 'simplecov'
   gem 'annotate'
+  gem 'factory_bot_rails'
   gem 'rails_best_practices'
   gem 'bullet'
   gem 'foreman'

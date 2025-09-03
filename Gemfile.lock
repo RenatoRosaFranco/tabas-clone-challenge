@@ -135,7 +135,7 @@ GEM
       railties (>= 6.1.0)
     faker (3.5.2)
       i18n (>= 1.8.11, < 2)
-    ffaker (2.24.0)
+    ffaker (2.25.0)
     foreman (0.90.0)
       thor (~> 1.4)
     fugit (1.11.1)
